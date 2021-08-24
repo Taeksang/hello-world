@@ -1,2 +1,2 @@
-# hello-world
+# OpenFOAM Code
 Just another repository
